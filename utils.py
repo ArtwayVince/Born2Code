@@ -1,5 +1,5 @@
 import os
-os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "lincolnchatbot-aqyx-f2e020db2776"
+os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "chatbot-95970-c27210f9205f.json"
 
 import dialogflow_v2 as dialogflow
 dialogflow_session_client = dialogflow.SessionsClient()
